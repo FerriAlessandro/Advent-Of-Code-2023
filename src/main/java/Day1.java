@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Day1 {
 
-    static String path = "C:/Users/alefe/OneDrive/Desktop/Coding/Advent-of-Code-2023/src/main/resources/Input1.txt";
+    static String path = "path-to-your-input-file";
 
     public static void readFile(ArrayList<String> input) throws FileNotFoundException {
         File file = new File(path);
